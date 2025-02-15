@@ -17,4 +17,4 @@ This project contains a `Book` model class written in Java. The class includes v
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://amritpal55.github.io/Book-Model-Class/
+   git clone https://github.com/Amritpal55/Book-Model-Class.git
